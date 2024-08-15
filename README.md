@@ -3,7 +3,7 @@
 After enjoying mods and not seeing certain mods in the games I've played, I decided to try modding myself.
 This would expose me to various coding languages and drive me to code specialized tools to help improve modder's workflows including myself.
 
-With the mindset of creating user-friendly UIs, the pivot to software development feel like the next course of action as that position has fields centered around UI/UX.
+With the mindset of creating user-friendly UIs, the pivot to software development feels like the next course of action as that field has sections centered around UI/UX.
 Hopefully, the projects and tools I've created can help me get the role I wanted!
 <!--
 **ItsBurpee/ItsBurpee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
