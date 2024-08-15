@@ -1,10 +1,10 @@
 ## Hello there! 👋
 
 After enjoying mods and not seeing certain mods in the games I've played, I decided to try modding myself.
-This would expose me to various coding languages and drive me to code specialized tools to help improve my workflow.
+This would expose me to various coding languages and drive me to code specialized tools to help improve my own and other modder's workflows.
 
-With the mindset of creating user-friendly UIs, the pivot to frontend web development feel like the next course of action as that position seems centered around UI.
-Hopefully, the projects and tools I've created can help me get role I wanted!
+With the mindset of creating user-friendly UIs, the pivot to software development feel like the next course of action as that position has fields centered around UI/UX.
+Hopefully, the projects and tools I've created can help me get the role I wanted!
 <!--
 **ItsBurpee/ItsBurpee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
