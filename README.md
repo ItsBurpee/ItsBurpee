@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
 After enjoying mods and not seeing certain mods in the games I've played, I decided to try modding myself.
-This would expose me to various coding languages and drive me to code specialized tools to help improve my own and other modder's workflows.
+This would expose me to various coding languages and drive me to code specialized tools to help improve modder's workflows including myself.
 
 With the mindset of creating user-friendly UIs, the pivot to software development feel like the next course of action as that position has fields centered around UI/UX.
 Hopefully, the projects and tools I've created can help me get the role I wanted!
